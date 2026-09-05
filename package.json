@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "exiftool-vendored": "^37.2.0",
+    "express": "^5.2.1",
+    "mongoose": "^9.9.5",
+    "multer": "^2.3.0",
+    "sharp": "^0.35.4",
+    "zod": "^4.5.4"
+  },
+  "name": "medialens",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
